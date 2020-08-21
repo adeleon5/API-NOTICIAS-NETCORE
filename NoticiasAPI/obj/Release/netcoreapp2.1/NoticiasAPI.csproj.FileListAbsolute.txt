@@ -1,0 +1,36 @@
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.deps.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.runtimeconfig.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.runtimeconfig.dev.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.csprojAssemblyReference.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.AssemblyInfoInputs.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.AssemblyInfo.cs
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.csproj.CoreCompileInputs.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cs
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.genruntimeconfig.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.deps.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.runtimeconfig.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.runtimeconfig.dev.json
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\bin\Release\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.csprojAssemblyReference.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.AssemblyInfoInputs.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.AssemblyInfo.cs
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.csproj.CoreCompileInputs.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cs
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\pilo_\Source\IONIC\API Net Core Ionic 4 - Noticias\NoticiasAPI\NoticiasAPI\obj\Release\netcoreapp2.1\NoticiasAPI.genruntimeconfig.cache
